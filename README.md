@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doonutz
-- 👀 I’m interested in Data Analytic & Front End Development
+- 👀 I’m interested in Data Analytic & Data Science
 - 🌱 I’m currently learning Phyton, SQL, R, Tableue
 - 💞️ I’m looking to collaborate on Data Analytic projects
 - 📫 How to reach me ikmalhjzulkifli@gmail.com
