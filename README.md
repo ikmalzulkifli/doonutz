@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @doonutz
-- 👀 I’m interested in Data Analytic & Data Science
+- 👋 Hi, I’m Ikmal Zulkifli
+- 👀 I’m currently working on Data Analytic using Python
 - 🌱 I’m currently learning Phyton, SQL, R, Tableue
-- 💞️ I’m looking to collaborate on Data Analytic projects
 - 📫 How to reach me ikmalhjzulkifli@gmail.com
 
   
