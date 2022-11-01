@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ikmal Zulkifli
-- 👀 I’m currently working on Data Analytic using Python
-- 🌱 I’m currently learning Phyton, SQL, R, Tableue
-- 📫 How to reach me ikmalhjzulkifli@gmail.com
+# - 👋 Hi, I’m Ikmal Zulkifli
+# - 👀 I’m currently working on Data Analytic using Python
+# - 🌱 I’m currently learning Phyton, SQL, R, Tableue
+# - 📫 How to reach me ikmalhjzulkifli@gmail.com
 
   
 <!---
