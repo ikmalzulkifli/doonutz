@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ikmal Zulkifli</h1>
-<h3 align="center">👀 I’m currently working on Data Analytic using Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nridyushmi&label=Profile%20views&color=0e75b6&style=flat" alt="nridyushmi" /> </p>
 
-- 🔭 I’m currently working on **Test Automation using Selenium Python and Playwright**
+- 🔭  I’m currently working on **Data Analytic using Python**
 
 - 🌱 I’m currently learning **Python, SQL, R, Tableau**
 
